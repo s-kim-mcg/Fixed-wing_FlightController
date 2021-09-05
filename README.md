@@ -8,7 +8,7 @@ Arduino Uno: For Main Controller
 
 GY-86(MPU6050): To collect posture information
 
-[Freewing] 690mm F-22 Raptor high Performance EDF PNP: Main fraim of plane
+[Freewing] 690mm F-22 Raptor high Performance EDF PNP: Main frame of plane
 
 DXe DSMX transmitter: Controller
 
