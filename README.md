@@ -17,5 +17,6 @@ AR620 Receiver: Receiver
 Breadboard and connector
 
 ## System Configuration
+![system](https://user-images.githubusercontent.com/74999377/132136380-a29437c9-d93b-475f-a03a-04bd8a06dd22.png)
 
-<img width="80%" src="https://user-images.githubusercontent.com/74999377/132136380-a29437c9-d93b-475f-a03a-04bd8a06dd22.png/>
+
