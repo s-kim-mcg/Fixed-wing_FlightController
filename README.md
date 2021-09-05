@@ -19,4 +19,7 @@ Breadboard and connector
 ## System Configuration
 ![system](https://user-images.githubusercontent.com/74999377/132136380-a29437c9-d93b-475f-a03a-04bd8a06dd22.png)
 
+## To use
+Convert .c file to .ino and apply it.
 
+[![Video Label](http://img.youtube.com/vi/hR6FBDZ6PJM/0.jpg)](https://youtu.be/hR6FBDZ6PJM)
