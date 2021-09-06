@@ -24,3 +24,6 @@ Convert .c file to .ino and apply it.
 
 ## Test video
 [![Video Label](http://img.youtube.com/vi/hR6FBDZ6PJM/0.jpg)](https://youtu.be/hR6FBDZ6PJM)
+
+## License
+MIT
