@@ -22,7 +22,11 @@ Breadboard and connector
 ## To use
 Convert .c file to .ino and apply it.
 
+
+
+
 ## Test video
-[![Watch the video](http://img.youtube.com/vi/hR6FBDZ6PJM/0.jpg)](https://youtu.be/hR6FBDZ6PJM)
+https://user-images.githubusercontent.com/74999377/193177427-28df1e31-e5e1-4556-9eca-17c9d2bf1875.mp4
+
 ## License
 MIT
